@@ -5,6 +5,9 @@ Diese Analyse wurde erstellt, um die zentralen Conversion-Hürden in einem E-Com
 
 ## Business Problem
 Ziel war es, die größten Conversion-Hürden im E-Commerce-Funnel sichtbar zu machen und zu erkennen, an welchen Stellen Nutzer abspringen.
+
+Die Funnel-Analyse verdeutlicht das Prinzip des 'Leaky Bucket': Bevor Marketing-Budgets zur Traffic-Steigerung erhöht werden, müssen die identifizierten 'Lecks', insbesondere zwischen Produktdetailseite und Warenkorb, geschlossen werden. Durch die Optimierung dieser spezifischen Hürden wird sichergestellt, dass akquirierte Nutzer effizienter zur Conversion geführt werden, anstatt wertvolles Potenzial im Checkout zu verlieren.
+
 <img src="leaky-bucket.png" alt="Leaky Bucket Theorie" width="500">
 
 ## Methodology
