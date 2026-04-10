@@ -5,6 +5,7 @@ Diese Analyse wurde erstellt, um die zentralen Conversion-Hürden in einem E-Com
 
 ## Business Problem
 Ziel war es, die größten Conversion-Hürden im E-Commerce-Funnel sichtbar zu machen und zu erkennen, an welchen Stellen Nutzer abspringen.
+![Alternativer Text](leaky-bucket.png)
 
 ## Methodology
 Analysiert wurden GA4-E-Commerce-Daten aus BigQuery in einem Jupyter Notebook. Untersucht wurden der Funnel auf Event-, User- und Session-Ebene sowie Drop-offs, Zeit zwischen den Schritten und Unterschiede nach Gerät, Nutzertyp und Land.
